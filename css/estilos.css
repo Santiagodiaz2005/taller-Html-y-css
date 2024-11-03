@@ -1,0 +1,92 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #cfeff3;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #2772b8c5;
+    color: #fff;
+    padding: 10px 0;
+    text-align: center;
+}
+
+nav {
+    background-color: #11353d;
+    color: #fff;
+    padding: 10px 0;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+}
+
+nav ul li {
+    margin: 0 15px;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+main {
+    padding: 20px;
+    text-align: center;
+}
+
+footer {
+    background-color: #000;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+.escudo1{
+    width: 200px;
+    height: 200px;
+}
+
+.escudo2{
+    width: 200px;
+    height: 200px;
+}
+
+.escudo3{
+    width: 200px;
+    height: 200px;
+}
+
+.escudo4{
+    width: 200px;
+    height: 200px;
+}
+
+.henry{
+    width: 250px;
+    height: 250px;
+}
+
+.didier{
+    width: 250px;
+    height: 250px;
+}
+
+.cristiano{
+    width: 250px;
+    height: 250px;
+}
+
+.aguero{
+    width: 250px;
+    height: 250px;
+}
